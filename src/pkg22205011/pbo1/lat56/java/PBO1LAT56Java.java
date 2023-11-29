@@ -6,9 +6,12 @@ package pkg22205011.pbo1.lat56.java;
 
 /**
  *
- * @author User Nama : Zalfa Rosiyah Riski Nim : 22205011 Jurusan : Teknik
- * Informatika Mata kuliah : PBO 1 Deskripsi : Membuat program dengan umur
- * barang antik
+ * @author User 
+ * Nama : Zalfa Rosiyah Riski 
+ * Nim : 22205011 
+ * Jurusan : Teknik Informatika 
+ * Mata kuliah : PBO 1 
+ * Deskripsi : Membuat program dengan umur barang antik
  */
 class BarangAntik {
 
